@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I once built a chatbot that could tell jokes and even made it to a local tech fair!
 
 Future Development
+
 I aim to specialize in natural language processing (NLP) and contribute to advancements in conversational AI.
 I plan to take courses on ethical AI and bias mitigation to ensure responsible development practices.
 I hope to engage with the AI community through conferences and workshops, sharing knowledge and learning from others.
