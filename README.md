@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**AMG-AA/AMG-AA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my path to become a AI & LLM developer.
 - 🌱 I’m currently learning Python with a focus on AI.
 - 👯 I’m looking to collaborate on AI projects, machine learning models, and natural language processing applications.
